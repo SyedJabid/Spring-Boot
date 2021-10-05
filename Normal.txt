@@ -9,7 +9,7 @@ JPa
 
 
 core Java
-Hibernate
+
 
 
 
