@@ -12,6 +12,8 @@ JPa
 
 core Java
 
+Hibernate
+JSP
 
 
 
