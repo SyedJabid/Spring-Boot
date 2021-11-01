@@ -2,7 +2,7 @@
 
 welcome to Git Hub.
 
-JABID SYED 
+SYED JABID HUSSAIN 
 
 Angular
 Spring boot
